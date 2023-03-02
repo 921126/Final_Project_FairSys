@@ -4,7 +4,7 @@
 <!--공고페이지--> 
 
   <header>
-      
+
     <div class="menu1" style="border-bottom: 1px solid" >
           <img src="#" style="float:left">
             <ul>
@@ -25,7 +25,7 @@
             <td>번호</td>
             <td>회사이름</td>
             <td>모집제목</td>
-            <td>시작일</td>
+            <td>시작일w</td>
             <td>마감일</td>
         </tr>
         <tr>
