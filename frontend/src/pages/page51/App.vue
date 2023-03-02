@@ -1,7 +1,6 @@
 
 <template>
 
-
 <!--지원자목록-->
   <header>
       

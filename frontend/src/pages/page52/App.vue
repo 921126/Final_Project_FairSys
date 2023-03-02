@@ -1,7 +1,7 @@
 
 <template>
 
-<!--공고상세--> 
+<!--공고상세 내용--> 
 
   <header class="head">
       
