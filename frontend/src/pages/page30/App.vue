@@ -14,10 +14,10 @@
           <label for="pass" class="label">Password</label>
           <input id="pass" type="password" class="input" data-type="password">
         </div>
-        <div class="group">
+        <!-- <div class="group">
           <input id="check" type="checkbox" class="check" checked>
           <label for="check"><span class="icon"></span> Keep me Signed in</label>
-        </div>
+        </div> -->
         <div class="group">
           <input type="submit" class="button" value="Sign In">
         </div>
@@ -46,10 +46,10 @@
           <label for="com_pass" class="label">Password</label>
           <input id="com_pass" type="password" class="input" data-type="password">
         </div>
-        <div class="group">
+        <!-- <div class="group">
           <input id="check1" type="checkbox" class="check" checked>
           <label for="check1"><span class="icon"></span> Keep me Signed in</label>
-        </div>
+        </div> -->
         <div class="group">
           <input type="submit" class="button" value="Sign in">
         </div>
@@ -59,7 +59,7 @@
         <br>
         <a href="page5">Sign up</a>
         <div class="hr"></div>
-        <div class="sns">소셜 계정으로 간편 로그인</div>
+        <!-- <div class="sns">소셜 계정으로 간편 로그인</div>
 
         <div class="simple_login_box">
                     <div class="simple_login_btn">
@@ -68,7 +68,7 @@
                             <a href="#" class="naver_login"><img src="" alt="네이버로그인"></a>
                         </div>
                     </div>
-                </div>
+                </div> -->
       
      
         
@@ -114,6 +114,7 @@ a{color:inherit;text-decoration:none}
   max-width:525px;
   min-height:670px;
   position:relative;
+    background:url(https://raw.githubusercontent.com/khadkamhn/day-01-login-form/master/img/bg.jpg) no-repeat center;
 
 }
 .login-html{
@@ -181,7 +182,6 @@ a{color:inherit;text-decoration:none}
   background:rgba(255,255,255,.1);
 }
 .login-form .group input[data-type="password"]{
-  text-security:circle;
   -webkit-text-security:circle;
 }
 .login-form .group .label{
